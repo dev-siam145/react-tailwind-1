@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@theme {
+  /* ==color=== */
+ --color-primary: #400235;
+ --color-diver: #63e6ba;
+ --color-circle: #e6680e;
+
+
+
+  /* ===font-size=== */
+  --text-twentytwo: 22px;
+  
+
+}
